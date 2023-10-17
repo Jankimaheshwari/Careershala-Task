@@ -1,0 +1,87 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+ }
+
+ .career{
+font-weight: 650;
+color: #2d5c9b;
+margin-top: 60px;
+text-align: center;
+font-size: 40px;
+}
+div .session{
+    margin-top: 30px;
+}
+.menu_1{
+    font-size: 25px;
+    color: #2d5c9b;
+    padding-right: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 30px;
+   
+}
+img {
+    margin-top: 40px;
+    width: 100%;
+    height: 540px;
+    
+}
+   .marketing{
+    font-weight: 650;
+    color: #2d5c9b;
+    margin-top: 50px;
+    font-size: 70px;
+}
+    .page{
+    font-weight: 600;
+    color: #eb7cbd;
+    font-size: 35px;
+}
+.sit{
+    color: #2d5c9b;
+    text-align: justify;
+    width: 385px;
+}
+.section-txt{
+    display: flex;
+}   
+.career_session{
+    width: 453px;
+    margin-left: 50px;
+    margin-right:20px;
+
+}
+.sexxion{
+    width: 8ss00px;
+}
+.menu_0{
+    float: right;
+    margin-top: 35px;
+
+}
+.click button {
+    border-radius: 40px;
+    background-color:#eb7cbd ;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-color:#eb7cbd ;
+    border-style: none;
+    color: #fff;
+    font-weight: 640;
+    margin-top: 30px;
+
+
+}
+.click{
+    display: flex;
+}
+.more{
+    margin-top: 37px;
+    margin-left: 30px;
+    font-weight: 500;
+    color: #2d5c9b;
+}
